@@ -8,15 +8,9 @@ body {
 .right {
     width: 300px;
     height: auto;
-    float: left;
+    float: left, top;
     margin-right: 20px;
-}
-
-.left {
-    width: 300px;
-    height: auto;
-    float: left;
-    margin-right: 20px;
+    border-bottom: 1px solid cyan;
 }
 
 p {
