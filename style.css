@@ -5,12 +5,24 @@ body {
     
 }
 
-img {
+.right {
     width: 300px;
     height: auto;
     float: left;
     margin-right: 20px;
 }
+
+.left {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button { background-color: #1c87c9; border: none; color: white; padding: 20px 34px; text-align: center; text-decoration: none; display: inline-block; font-size: 20px; margin: 4px 2px; cursor: pointer; }
+#dr_home { position: sticky;
+    top: 0px;
 }
